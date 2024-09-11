@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ioopkaey.github.io/sitemap/sitemap.txt
